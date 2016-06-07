@@ -23,9 +23,27 @@ $('html').keypress( function(e){
     
     //Store Greetings
 var img1 = '../img/one.jpg'; 
-var img2 = 'two.jpg'; 
-var img3 = 'Hey you!';
-
+var img1 = '../img/two.jpg';
+var img1 = '../img/three.jpg';
+      var img1 = '../img/four.jpg';
+      var img1 = '../img/five.jpg';
+      var img1 = '../img/six.jpg';
+      var img1 = '../img/seven.jpg';
+      var img1 = '../img/eight.jpg';
+      var img1 = '../img/nine.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      var img1 = '../img/one.jpg';
+      
 
 ////Get/make random number
 //var limit = 20;
