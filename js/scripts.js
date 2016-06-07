@@ -1,4 +1,18 @@
- // Stuff Before Event
+// First, load jQuery (required)
+// jQuery 2.2.2 loaded via `index.html`
+
+// Second, load Semantic UI JS (required)
+// @codekit-prepend "semantic.js";
+
+// Third, Add to Homescreen (optional)
+// @codekit-prepend "add-to-homescreen.js";
+
+// Third, load any plugins (optional)
+// @codekit-prepend "plugins.js";
+
+// My Scripts 
+
+// Stuff Before Event
 
 $('html').keypress( function(e){
   
@@ -8,18 +22,18 @@ $('html').keypress( function(e){
    console.log(e.keyCode);
     
     //Store Greetings
-var img1 = 'https://s-media-cache-ak0.pinimg.com/736x/ab/63/5c/ab635cc003d86146f0437eae401e5a31.jpg'; 
-var img2 = 'Whats up yo'; 
+var img1 = '../img/one.jpg'; 
+var img2 = 'two.jpg'; 
 var img3 = 'Hey you!';
 
 
-//Get/make random number
-var limit = 3;
-var numRand = Math.floor( Math.random()*limit);
-console.log( numRand ); 
+////Get/make random number
+//var limit = 20;
+//var numRand = Math.floor( Math.random()*limit);
+//console.log( numRand ); 
 
 //Show random Greetings
-$('h1').text(eval('img' + numRand));
+$('h1').show(eval('img' + 1));
 
 //console.log('msg' + numRand); 
     
