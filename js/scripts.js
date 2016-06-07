@@ -23,26 +23,25 @@ $('html').keypress( function(e){
     
     //Store Greetings
 var img1 = '../img/one.jpg'; 
-var img1 = '../img/two.jpg';
-var img1 = '../img/three.jpg';
-      var img1 = '../img/four.jpg';
-      var img1 = '../img/five.jpg';
-      var img1 = '../img/six.jpg';
-      var img1 = '../img/seven.jpg';
-      var img1 = '../img/eight.jpg';
-      var img1 = '../img/nine.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
-      var img1 = '../img/one.jpg';
+var img2 = '../img/two.jpg';
+var img3 = '../img/three.jpg';
+      var img4 = '../img/four.jpg';
+      var img5 = '../img/five.jpg';
+      var img6 = '../img/six.jpg';
+      var img7 = '../img/seven.jpg';
+      var img8 = '../img/eight.jpg';
+      var img9 = '../img/nine.jpg';
+      var img10 = '../img/one.jpg';
+      var img11 = '../img/one.jpg';
+      var img12 = '../img/one.jpg';
+      var img13 = '../img/one.jpg';
+      var img14 = '../img/one.jpg';
+      var img15 = '../img/one.jpg';
+      var img16 = '../img/one.jpg';
+      var img17 = '../img/one.jpg';
+      var img18 = '../img/one.jpg';
+      var img19 = '../img/one.jpg';
+      var img20 = '../img/one.jpg';
       
 
 ////Get/make random number
