@@ -31,23 +31,23 @@ var img3 = '../img/three.jpg';
       var img7 = '../img/seven.jpg';
       var img8 = '../img/eight.jpg';
       var img9 = '../img/nine.jpg';
-      var img10 = '../img/one.jpg';
-      var img11 = '../img/one.jpg';
-      var img12 = '../img/one.jpg';
-      var img13 = '../img/one.jpg';
-      var img14 = '../img/one.jpg';
-      var img15 = '../img/one.jpg';
-      var img16 = '../img/one.jpg';
-      var img17 = '../img/one.jpg';
-      var img18 = '../img/one.jpg';
-      var img19 = '../img/one.jpg';
-      var img20 = '../img/one.jpg';
+      var img10 = '../img/ten.jpg';
+      var img11 = '../img/eleven.jpg';
+      var img12 = '../img/twelve.jpg';
+      var img13 = '../img/thirteen.jpg';
+      var img14 = '../img/fourteen.jpg';
+      var img15 = '../img/fifteen.jpg';
+      var img16 = '../img/sixteen.jpg';
+      var img17 = '../img/seventeen.jpg';
+      var img18 = '../img/eighteen.jpg';
+      var img19 = '../img/nineteen.jpg';
+      var img20 = '../img/twenty.jpg';
       
 
-////Get/make random number
-//var limit = 20;
-//var numRand = Math.floor( Math.random()*limit);
-//console.log( numRand ); 
+//Get/make random number
+var limit = 20;
+var numRand = Math.floor( Math.random()*limit);
+console.log( numRand ); 
 
 //Show random Greetings
 $('h1').show(eval('img' + 1));
